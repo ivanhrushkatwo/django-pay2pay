@@ -57,7 +57,7 @@ Quick start
           }
       }
 
-4. Выполните ``python manage.py syncdb`` для создание таблицы с заказазами или выполните мограцию, если вы используете south: ``python manage.py migrate pay2pay2``
+4. Выполните ``python manage.py syncdb`` для создание таблицы с заказазами или выполните миграцию, если вы используете south: ``python manage.py migrate pay2pay2``
 
 
 5. Определите два шаблона::
